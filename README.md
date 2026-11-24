@@ -33,13 +33,13 @@
 <p>
   <a href="https://felipeinoue.com/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/felipeinoue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/fiwon123"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/felipeinoue"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://fiwon123.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
 </p>
 
 ### Support my work
 
 <p>
-  <a href="https://github.com/sponsors/fiwon123"><img src="https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://github.com/sponsors/felipeinoue"><img src="https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
   <a href="https://ko-fi.com/J2Z32AC4IU"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" /></a>
 </p>
