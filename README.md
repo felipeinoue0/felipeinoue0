@@ -34,7 +34,7 @@
   <a href="https://felipeinoue.com/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/felipeinoue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/felipeinoue0"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://fiwon123.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+  <a href="https://felipeinoue.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
 </p>
 
 ### Support my work
